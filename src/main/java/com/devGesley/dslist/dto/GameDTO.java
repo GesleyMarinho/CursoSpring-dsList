@@ -1,12 +1,11 @@
 package com.devGesley.dslist.dto;
 
-import java.util.Objects;
+
 
 import org.springframework.beans.BeanUtils;
 
 import com.devGesley.dslist.entities.Game;
 
-import ch.qos.logback.core.joran.util.beans.BeanUtil;
 
 public class GameDTO {
 
